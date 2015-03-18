@@ -91,7 +91,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="pq6-d5-8kw" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="382.5" y="-501"/>
+            <point key="canvasLocation" x="1096.5" y="-1237"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="dGL-vn-gcd">
